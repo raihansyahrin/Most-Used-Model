@@ -7,6 +7,10 @@ Proyek ini merupakan bagian dari **Tugas Akhir** untuk mempelajari **Visualisasi
 - Muhammad Faqih Abdussalam / 1301213056
 - Muhamad Raihan Syahrin Sya’bani / 1301213257
 
+## Hasil
+
+Untuk hasilnya, silakan akses di [https://most-used-model.streamlit.app/](https://most-used-model.streamlit.app/)
+
 ## Fitur
 
 Aplikasi ini terdiri dari beberapa halaman untuk menjelajahi berbagai aspek dari dataset:
